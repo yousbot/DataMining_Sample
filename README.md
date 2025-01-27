@@ -40,7 +40,7 @@ On importe le CSV a excel pour visualiser les donnees d'une maniere claire.
 
 A partir de cela on peut voir que certaines colonnes on un type fixe *(Nombre entier: Age)* et d'autres variables *(multi-choix (yes, no): Overtime )*, et a partir de cela on peut decrire nos colonnes comme suit :
 
-```json
+```text
 Employee ID							: Integer
 Age											: Integer
 Gender									: ['Male', 'Female']
